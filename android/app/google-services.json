@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691324714655",
+    "project_id": "chatapplication-569fe",
+    "storage_bucket": "chatapplication-569fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691324714655:android:1d4a00ec44a813ca4eecaa",
+        "android_client_info": {
+          "package_name": "com.reesha.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691324714655-mf1hcfg6192aft384k0emv1bb4jr12l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reesha.chatapp",
+            "certificate_hash": "b06d06bd6834c96457f60d8cb76d9e77c28df7fa"
+          }
+        },
+        {
+          "client_id": "691324714655-jeuq9b1mh72jvvge8o1gsg3t185heti2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK0Bs8pqnC7UlPczjgrJsowvy8P1oR3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691324714655-jeuq9b1mh72jvvge8o1gsg3t185heti2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
